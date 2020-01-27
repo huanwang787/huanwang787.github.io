@@ -8,4 +8,4 @@ And you can include links, like this [link to fast.ai](https://www.fast.ai). Pos
 
 ## 好吧，测试一下，也许以后会用到
 
-$E=mc^2$
+$$\sum_n (x)$$
